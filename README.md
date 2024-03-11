@@ -13,4 +13,4 @@ I'm Kangsuk, backend developer from Korea. And welcome to your feedback!
 </div>
 <h3 align="center">My Projects</h3> &nbsp&nbsp
 
-//[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUPERK98&theme=shadow_blue&show_icons=true)](https://github.com/SUPERK98/github-readme-statsa)
+/*[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUPERK98&theme=shadow_blue&show_icons=true)](https://github.com/SUPERK98/github-readme-statsa)*/
