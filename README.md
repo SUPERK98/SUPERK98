@@ -7,6 +7,6 @@ I'm Kangsuk, backend developer from Korea. And welcome to your feedback!
   <img src="https://img.shields.io/badge/Java-blue.svg?style=for-the-badge&logo=openjdk&logoColor=000000" />&nbsp
   <img src="https://img.shields.io/badge/Spring Boot-green.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F" />&nbsp
   <img src="https://img.shields.io/badge/MySQL-blue.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/MySQL-black.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MySQL-blue.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 </div>
