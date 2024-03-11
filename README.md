@@ -1,4 +1,6 @@
-### Welcome!
+### Welcome to my page!
+
+I'm Kangsuk, backend developer from Korea. And welcome to your feedback!
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
