@@ -9,4 +9,5 @@ I'm Kangsuk, backend developer from Korea. And welcome to your feedback!
   <img src="https://img.shields.io/badge/MySQL-blue.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/html5-red.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
 </div>
