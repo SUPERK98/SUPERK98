@@ -13,5 +13,6 @@ I'm Kangsuk, backend developer from Korea. And welcome to your feedback!
 </div>
 
 <h3 align="Left">My Projects</h3> &nbsp&nbsp
-<h3 align="Left">My Study</h3> &nbsp&nbsp
+<h3 align="Left">My Archive</h3> &nbsp&nbsp
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjmu18)](https://solved.ac/kjmu18/)
