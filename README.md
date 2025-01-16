@@ -11,8 +11,3 @@ I'm Kangsuk, backend developer from Korea. And welcome to your feedback!
   <img src="https://img.shields.io/badge/html5-red.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp&nbsp
 </div>
-
-
-<h3 align="Left">My Archive</h3> &nbsp&nbsp
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjmu18)](https://solved.ac/kjmu18/)
